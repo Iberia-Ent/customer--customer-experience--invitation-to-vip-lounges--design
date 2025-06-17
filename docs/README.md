@@ -1,20 +1,18 @@
-# Project Solution Architecture Template
+# Customer Experience - Invitation to VIP lounges
+This is the specific repository of the **Customer Experience - Invitation to VIP lounges** initiative. 
 
-Project Short description
+## Related repositories
 
-Folder Structure:
+- [CX Product design](https://github.com/Iberia-Ent/customer--customer-experience--customer-experience-product--design/)
 
-- ***/src***: Contains all the Arch-42 definition elements.
-  - ***/src/adrs***: ADRs taken in the Architecture Definition Solution.
-  - ***/src/assets***: C4 Model diagrams and images needed.
-  - ***/src/diagrams***: Diagrams source code.  
-- ***/readme.md***: Main index/readme file.
 
 ## Stakeholders
 
-| Stakeholder              | Company | Role |
-|--------------------------|---------|------|
-| <Full_Name>              | Name    | HSI  |
+| Stakeholder                | Company    | Role                | Contact                        |
+|----------------------------|------------|---------------------|--------------------------------|
+| Alfonso De Celis Gutierrez | IAG        | Project Manager     | <alfonso.decelis@iaggbs.com>   |
+| Carlos Ruiz Santos         | IAG        | Product Owner       | <carlos.ruiz@iaggbs.com>       |
+| Jonathan González          | Coforge    | Solutions Architect | <cofo-jgonzalezf@iberia.es>    |
 
 ## Architecture Definition
 
