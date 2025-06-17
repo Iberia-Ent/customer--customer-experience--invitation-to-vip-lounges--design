@@ -12,8 +12,8 @@ This is the specific repository of the **Customer Experience - Invitation to VIP
 |----------------------------|------------|---------------------|--------------------------------|
 | Alfonso De Celis Gutierrez | IAG        | Project Manager     | <alfonso.decelis@iaggbs.com>   |
 | Carlos Ruiz Santos         | IAG        | Product Owner       | <carlos.ruiz@iaggbs.com>       |
-| Francisco Cilleruelo       | Coforge    | Team Lead           | <COFO.fcilleruelo@iberia.es>   |
-| Jonathan González          | Coforge    | Solutions Architect | <cofo-jgonzalezf@iberia.es>    |
+| Francisco Cilleruelo       | Coforge    | Team Lead           | <cofo.fcilleruelo@iberia.es>   |
+| Jonathan González          | Coforge    | Solutions Architect | <cofo.jgonzalezf@iberia.es>    |
 
 ## Architecture Definition
 
