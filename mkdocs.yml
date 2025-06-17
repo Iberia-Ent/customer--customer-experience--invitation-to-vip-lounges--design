@@ -1,0 +1,9 @@
+site_name: Technical documentation title
+site_description: Technical documentation description
+
+plugins:
+  - techdocs-core
+  - callouts
+
+nav:
+  - Introduction: index.md
