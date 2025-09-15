@@ -1,6 +1,10 @@
 # Context and Scope
 
+## General Context Diagram
 ![Context diagram](./diagrams/VIPLoungeInvitation-C4%20L1.png "Context Diagram")
+
+## Detailed Context Diagram
+![C4L1 diagram](./diagrams/Invitation-C4-L1-Detailed.svg "C4L1 Diagram")
 
 ## Business Context Optional (OPTIONAL)
 
