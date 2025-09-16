@@ -24,4 +24,11 @@ This section outlines the key requirements that guide the architecture and devel
 
 **Note**: items pending validation. 
 
+
+## Detailed requirements
+
+The requirements are in confluence page:
+
+https://transform.atlassian.net/wiki/spaces/DSO/pages/4798185473/VIP+-+Iberia+Madrid+VIP+lounge+invitation+management+-+v.1
+
 [Back](../README.md)
