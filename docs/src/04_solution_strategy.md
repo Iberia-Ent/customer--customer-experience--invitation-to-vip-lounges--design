@@ -111,7 +111,7 @@ In the MVP Solution we have 2 considerations:
 - CardType Manager Loyalty microserice is going to be deployed in Cx accounts, but the final repository is in Loyalty accounts.
 
 ## C4 L2 Initial
-![C4L2 MVP](./diagrams/Invitation-C4-L2-Tactical.svg "C4L2 MVP")
+![C4L2 MVP](./diagrams/Invitation-C4-L2-Initial.svg "C4L2 MVP")
 
 
 # Strategic Solution
