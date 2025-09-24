@@ -104,14 +104,14 @@ The Invitation Manager Initiative involves several services, each with its speci
     
 
 
-# MVP Solution
+# Transition Solution
 
-In the MVP Solution we have 2 considerations:
+In the transition Solution we have 2 considerations:
 - CRM Cloud is delayed, then we will connect directly to MKT Cloud with the compromise to change to CRM Cloud when it is going to be ready.
 - CardType Manager Loyalty microserice is going to be deployed in Cx accounts, but the final repository is in Loyalty accounts.
 
-## C4 L2 Initial
-![C4L2 MVP](./diagrams/Invitation-C4-L2-Initial.svg "C4L2 MVP")
+## C4 L2 Transtion
+![C4L2 MVP](./diagrams/Invitation-C4-L2-Transition.svg "C4L2 MVP")
 
 
 # Strategic Solution

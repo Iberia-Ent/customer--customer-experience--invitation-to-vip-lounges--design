@@ -8,8 +8,8 @@ The deployment view describes:
 
 - Initial Deployment Specification maybe can be included the last production infrastructure snapshot in automatic way.
 
-# AWS Initial Diagram
-![Deployment Diagram](./diagrams/AWSTacticalDiagram.svg "Deployment Diagram")
+# AWS Transition Diagram
+![Deployment Diagram](./diagrams/AWSTransitionDiagram.svg "Deployment Diagram")
 
 # AWS Strategic Diagram
 ![Deployment Diagram](./diagrams/AWSStrategicDiagram.svg "Deployment Diagram")
