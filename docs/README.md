@@ -1,5 +1,9 @@
-# Customer Experience - Invitation to VIP lounges
+# Customer Experience - Invitation to VIP lounges (DEPRECATED)
 This is the specific repository of the **Customer Experience - Invitation to VIP lounges** initiative. 
+
+Superseded by:
+https://backstage.iberia.com/docs/default/Component/customer-experience.lounge-invitation-architecture
+
 
 ## Related repositories
 
